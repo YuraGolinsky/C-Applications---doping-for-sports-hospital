@@ -41,7 +41,10 @@
 Приложение "Допинг" предоставляет широкий спектр функций для удобства управления и поддержания актуальности информации о пациентах в области спортивной медицины.
 
 
+![image](https://github.com/YuraGolinsky/C-Applications---doping-for-sports-hospital/assets/134283897/1534c84b-a6d0-4686-8fee-cf458fcf9cc0)
+![image](https://github.com/YuraGolinsky/C-Applications---doping-for-sports-hospital/assets/134283897/1dcf891c-ee2a-45fb-8ff5-c7fb42ff1c3b)
 
+![image](https://github.com/YuraGolinsky/C-Applications---doping-for-sports-hospital/assets/134283897/a6917f4d-e878-4a86-9935-4af50d43ebe8)
 
 
 
